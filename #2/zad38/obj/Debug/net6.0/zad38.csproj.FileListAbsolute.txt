@@ -1,0 +1,15 @@
+/Users/macbookair/Desktop/dzC#/#2/zad38/obj/Debug/net6.0/zad38.csproj.AssemblyReference.cache
+/Users/macbookair/Desktop/dzC#/#2/zad38/obj/Debug/net6.0/zad38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Desktop/dzC#/#2/zad38/obj/Debug/net6.0/zad38.AssemblyInfoInputs.cache
+/Users/macbookair/Desktop/dzC#/#2/zad38/obj/Debug/net6.0/zad38.AssemblyInfo.cs
+/Users/macbookair/Desktop/dzC#/#2/zad38/obj/Debug/net6.0/zad38.csproj.CoreCompileInputs.cache
+/Users/macbookair/Desktop/dzC#/#2/zad38/bin/Debug/net6.0/zad38
+/Users/macbookair/Desktop/dzC#/#2/zad38/bin/Debug/net6.0/zad38.deps.json
+/Users/macbookair/Desktop/dzC#/#2/zad38/bin/Debug/net6.0/zad38.runtimeconfig.json
+/Users/macbookair/Desktop/dzC#/#2/zad38/bin/Debug/net6.0/zad38.dll
+/Users/macbookair/Desktop/dzC#/#2/zad38/bin/Debug/net6.0/zad38.pdb
+/Users/macbookair/Desktop/dzC#/#2/zad38/obj/Debug/net6.0/zad38.dll
+/Users/macbookair/Desktop/dzC#/#2/zad38/obj/Debug/net6.0/refint/zad38.dll
+/Users/macbookair/Desktop/dzC#/#2/zad38/obj/Debug/net6.0/zad38.pdb
+/Users/macbookair/Desktop/dzC#/#2/zad38/obj/Debug/net6.0/zad38.genruntimeconfig.cache
+/Users/macbookair/Desktop/dzC#/#2/zad38/obj/Debug/net6.0/ref/zad38.dll
