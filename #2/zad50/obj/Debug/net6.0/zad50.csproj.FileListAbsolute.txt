@@ -1,0 +1,15 @@
+/Users/macbookair/Desktop/dzC#/#2/zad50/obj/Debug/net6.0/zad50.csproj.AssemblyReference.cache
+/Users/macbookair/Desktop/dzC#/#2/zad50/obj/Debug/net6.0/zad50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Desktop/dzC#/#2/zad50/obj/Debug/net6.0/zad50.AssemblyInfoInputs.cache
+/Users/macbookair/Desktop/dzC#/#2/zad50/obj/Debug/net6.0/zad50.AssemblyInfo.cs
+/Users/macbookair/Desktop/dzC#/#2/zad50/obj/Debug/net6.0/zad50.csproj.CoreCompileInputs.cache
+/Users/macbookair/Desktop/dzC#/#2/zad50/bin/Debug/net6.0/zad50
+/Users/macbookair/Desktop/dzC#/#2/zad50/bin/Debug/net6.0/zad50.deps.json
+/Users/macbookair/Desktop/dzC#/#2/zad50/bin/Debug/net6.0/zad50.runtimeconfig.json
+/Users/macbookair/Desktop/dzC#/#2/zad50/bin/Debug/net6.0/zad50.dll
+/Users/macbookair/Desktop/dzC#/#2/zad50/bin/Debug/net6.0/zad50.pdb
+/Users/macbookair/Desktop/dzC#/#2/zad50/obj/Debug/net6.0/zad50.dll
+/Users/macbookair/Desktop/dzC#/#2/zad50/obj/Debug/net6.0/refint/zad50.dll
+/Users/macbookair/Desktop/dzC#/#2/zad50/obj/Debug/net6.0/zad50.pdb
+/Users/macbookair/Desktop/dzC#/#2/zad50/obj/Debug/net6.0/zad50.genruntimeconfig.cache
+/Users/macbookair/Desktop/dzC#/#2/zad50/obj/Debug/net6.0/ref/zad50.dll
