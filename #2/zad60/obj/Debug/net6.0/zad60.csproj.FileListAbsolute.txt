@@ -1,0 +1,15 @@
+/Users/macbookair/Desktop/Илья/dzC#/#2/zad60/obj/Debug/net6.0/zad60.csproj.AssemblyReference.cache
+/Users/macbookair/Desktop/Илья/dzC#/#2/zad60/obj/Debug/net6.0/zad60.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Desktop/Илья/dzC#/#2/zad60/obj/Debug/net6.0/zad60.AssemblyInfoInputs.cache
+/Users/macbookair/Desktop/Илья/dzC#/#2/zad60/obj/Debug/net6.0/zad60.AssemblyInfo.cs
+/Users/macbookair/Desktop/Илья/dzC#/#2/zad60/obj/Debug/net6.0/zad60.csproj.CoreCompileInputs.cache
+/Users/macbookair/Desktop/Илья/dzC#/#2/zad60/bin/Debug/net6.0/zad60
+/Users/macbookair/Desktop/Илья/dzC#/#2/zad60/bin/Debug/net6.0/zad60.deps.json
+/Users/macbookair/Desktop/Илья/dzC#/#2/zad60/bin/Debug/net6.0/zad60.runtimeconfig.json
+/Users/macbookair/Desktop/Илья/dzC#/#2/zad60/bin/Debug/net6.0/zad60.dll
+/Users/macbookair/Desktop/Илья/dzC#/#2/zad60/bin/Debug/net6.0/zad60.pdb
+/Users/macbookair/Desktop/Илья/dzC#/#2/zad60/obj/Debug/net6.0/zad60.dll
+/Users/macbookair/Desktop/Илья/dzC#/#2/zad60/obj/Debug/net6.0/refint/zad60.dll
+/Users/macbookair/Desktop/Илья/dzC#/#2/zad60/obj/Debug/net6.0/zad60.pdb
+/Users/macbookair/Desktop/Илья/dzC#/#2/zad60/obj/Debug/net6.0/zad60.genruntimeconfig.cache
+/Users/macbookair/Desktop/Илья/dzC#/#2/zad60/obj/Debug/net6.0/ref/zad60.dll
